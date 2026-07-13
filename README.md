@@ -1,2 +1,2 @@
 # ML
-This repository has code files for machine learning
+This repository has code files for machine learning.
